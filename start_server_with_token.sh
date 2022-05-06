@@ -1,0 +1,1 @@
+JEKYLL_GITHUB_TOKEN=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 bundle exec jekyll serve
