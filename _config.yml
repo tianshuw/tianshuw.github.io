@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Tianshu Wen"
   avatar           : "profile.png"
-  bio              : "Graduate student in Aero & Mech"
+  bio              : "Graduate Student"
   location         : "South Bend, IN, USA"
-  employer         : "University of Notre Dame"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=K21VORoAAAAJ&hl=en"
   email            :
