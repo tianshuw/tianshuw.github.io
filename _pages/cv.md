@@ -8,5 +8,5 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download my CV](http://wts0835.github.io/files/_Tianshu_CV.pdf)
+[Download my CV](https://wts0835.github.io/files/_Tianshu_CV.pdf)
 
