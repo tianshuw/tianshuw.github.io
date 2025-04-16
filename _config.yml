@@ -13,11 +13,7 @@ name                     : &name "Tianshu Wen"
 description              : &description "personal description"
 url                      : "https://wts0835.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-<<<<<<< HEAD
 repository               : "wts0835/wts0835.github.io" #"academicpages/academicpages.github.io"
-=======
-repository               : "tianshuw/tianshuw.github.io" #"academicpages/academicpages.github.io"
->>>>>>> b5be92adf21276db30154e6719e75a09cec891cc
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
