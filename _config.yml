@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Tianshu Wen"
-  avatar           : "profile.png"
-  bio              : "Graduate Student"
-  location         : "South Bend, IN, USA"
+  avatar           : "avatar.png"
+  bio              : "Design Engineer"
+  location         : "San Jose, CA USA"
   employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=K21VORoAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wts0835"
+  github           : "https://github.com/tianshuw"
   google_plus      :
   keybase          :
   instagram        :
