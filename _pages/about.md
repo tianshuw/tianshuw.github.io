@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Tianshu Wen currently works as a design engineer at Applied Materials, Inc. Previously, he interned at Lorentz Solution, Inc (2024) and Lawrence Livermore National Laboratory (2023). He received his Ph.D. in Aerospace and Mechanical Engineering from the University of Notre Dame in 2024, where he was advised by Matthew J. Zahr. He also holds an M.S. in Applied Mathematics from the University of Notre Dame (2023), an M.S. in Mechanical Engineering from Washington University in St. Louis (2019), and a B.S. in Mechanical Engineering from Central Michigan University (2016). He specializes in numerical optimization, model order reduction, deep learning, computational fluid dynamics, and finite element methods. 
+I am a graduate student in the Department of Aerospace and Mechanical Engineering at the University of Notre Dame under the supervision of Matthew J. Zahr. I received a M.S. in 2019 from Washington University in St. Louis under the supervision of Ramesh K. Agarwal and a B.S. in 2016 from Central Michigan University.
 
 Interests
 ======
