@@ -11,9 +11,9 @@ title                    : "Tianshu Wen"
 title_separator          : "-"
 name                     : &name "Tianshu Wen"
 description              : &description "personal description"
-url                      : "https://wts0835.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://twen.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wts0835/wts0835.github.io" #"academicpages/academicpages.github.io"
+repository               : "wts0835/twen.github.io" #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
